@@ -9,5 +9,6 @@ languages:
 php
 html5
 css3
+mysql
 
-for running the site you need to create a localhost.
+for running the site you need to create a localhost and configure the mysql.
