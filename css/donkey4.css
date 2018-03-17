@@ -1,0 +1,64 @@
+ #log
+ {
+	 background-color: rgba(58,83,94,0.7);
+	 margin-top:0px;
+	 margin-bottom:50px;
+	 margin-right:400px;
+	 margin-left:400px;
+	 padding:20px;
+	 height:400px;
+	 text-align:center;
+	 border-radius:5px;
+	 font-family:"comic sans ms"
+
+ }
+
+ #log input
+ {
+	 height:40px;
+	 width:400px;
+     font-family:"comic sans ms"
+ }
+
+ #goat input
+ {
+	  height:40px;
+	  width:100px;
+	  background-color: #0047b3;
+	border:none;
+	border-radius:5px;
+	  margin-left:300px;
+	  font-size:20px;
+	  color:white;
+ }
+ 
+ 
+  #cool
+ {
+	 background-color: rgba(1,1,1,0.7);
+	 margin-top:50px;
+	 margin-bottom:0px;
+	 margin-right:400px;
+	 margin-left:400px;
+	 color:white;
+	 text-align:center;
+	 border-radius:5px;
+	 height:50px;
+	 width:550px;
+	 font-family:"comic sans ms"
+
+ }
+#late a
+{
+	
+	
+	color:maroon;
+
+}
+body
+{
+ background-image: url("hammer.jpg");
+ background-repeat:no-repeat;
+ background-size: 1380px 665px;
+ 
+}
